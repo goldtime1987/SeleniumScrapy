@@ -1,0 +1,27 @@
+1488522204890	geckodriver	INFO	Listening on 127.0.0.1:58791
+1488522206395	mozprofile::profile	INFO	Using profile path /var/folders/b2/xr0dl03j1859332y9l40wgxw0000gp/T/rust_mozprofile.VDVcyXWWR1nF
+1488522206396	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488522206428	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58801
+1488522207308	Marionette	INFO	Listening on port 58801
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+[Child 16909] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 16909] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1488522380576	geckodriver	INFO	Listening on 127.0.0.1:58898
+1488522381685	mozprofile::profile	INFO	Using profile path /var/folders/b2/xr0dl03j1859332y9l40wgxw0000gp/T/rust_mozprofile.TE31CsFXcOIj
+1488522381686	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488522381690	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58904
+1488522382248	Marionette	INFO	Listening on port 58904
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+[Child 16921] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 16921] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1488522476949	geckodriver	INFO	Listening on 127.0.0.1:58959
+1488522478046	mozprofile::profile	INFO	Using profile path /var/folders/b2/xr0dl03j1859332y9l40wgxw0000gp/T/rust_mozprofile.F2tQNHIK8TVE
+1488522478048	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488522478052	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58965
+1488522478625	Marionette	INFO	Listening on port 58965
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+[Child 16933] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 16933] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
